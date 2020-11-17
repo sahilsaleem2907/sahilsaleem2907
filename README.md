@@ -1,4 +1,4 @@
-### Hi , I'm Sahil Saleem and this is my GitHub Repo - [website] 
+### Hi , I'm Sahil Saleem and this is my GitHub Repo  
 [![Twitter Follow](https://img.shields.io/twitter/follow/sahilsaleeeem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sahilsaleeeem?s=03)
 [![Website](https://img.shields.io/website?color=FF7139&logo=Firefox%20Browser&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsahilsaleemwebsite.web.app%2F%23%2F)](https://sahilsaleemwebsite.web.app/#/)
 
@@ -12,10 +12,10 @@
 
 ### My Social's:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="twitter" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin"  LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram"  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
