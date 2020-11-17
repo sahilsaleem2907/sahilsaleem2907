@@ -1,5 +1,5 @@
 ### Hi , I'm Sahil Saleem and this is my GitHub Repo - [website] 
-[![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahilsaleeeem?s=03)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sahilsaleeeem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sahilsaleeeem?s=03)
 
 ## Flutter , Native and Web App Developer , Machine and Deep learning enthusiast 
 
