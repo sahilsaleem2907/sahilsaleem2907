@@ -10,7 +10,7 @@
 -  I also do freelancing as another way to fine tune my skills
 
 
-### My Social's:
+### My Social Media :
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="sahil | Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
