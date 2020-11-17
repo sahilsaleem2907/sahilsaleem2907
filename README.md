@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?color=FF7139&logo=Firefox%20Browser&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsahilsaleemwebsite.web.app%2F%23%2F)](https://sahilsaleemwebsite.web.app/#/)
 
 
-## Flutter,Native and Web App Developer , Machine and Deep learning enthusiast 
+## Flutter , Native and Web App Developer , Machine and Deep learning enthusiast 
 
 -  I think projects are the best way to learn new things
 -  Always keen to work and collab with new developers 
