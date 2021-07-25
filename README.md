@@ -1,7 +1,6 @@
 ### Hi , I'm Sahil Saleem , Welcome to my Github
 [![Twitter Follow](https://img.shields.io/twitter/follow/sahilsaleeeem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sahilsaleeeem?s=03)
-[![Website](https://img.shields.io/website?color=FF7139&logo=Firefox%20Browser&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsahilsaleemwebsite.web.app%2F%23%2F)](https://website-6faf5.web.app/#/)
-&nbsp;
+[![Website](https://img.shields.io/website?color=FF7139&logo=Firefox%20Browser&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsahilsaleemwebsite.web.app%2F%23%2F)](https://website-6faf5.web.app/#/) \
 [![CodeChef](https://img.shields.io/badge/Codechef-profile-yellow)](https://www.codechef.com/users/keenphoenix)
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-green)](https://leetcode.com/keenphoenix/)
 
