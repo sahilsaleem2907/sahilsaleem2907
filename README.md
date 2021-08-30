@@ -1,29 +1,16 @@
 ### Hi , I'm Sahil Saleem , Welcome to my Github
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Website](https://img.shields.io/website?color=FF7139&logo=Firefox%20Browser&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsahilsaleemwebsite.web.app%2F%23%2F)](https://website-6faf5.web.app/#/) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/keenphoenix/)\
-[![CodeChef](https://img.shields.io/badge/Codechef-profile-yellow)](https://www.codechef.com/users/keenphoenix)
-
-
-
-
-
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/keenphoenix/)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/keenphoenix)
 
 
 
 ## Flutter , Native and Web App Developer , Machine and Deep learning enthusiast 
 
--  I think projects are the best way to learn new things
+-  Professional App developer for 2+ years and experience in all different aspects of the market
+-  Looking for innovative ideas and projects to work on everyday and super passionate about it
 -  Always keen to work and collab with new developers 
--  I also do freelancing as another way to fine tune my skills
-
-
-### My Social Media :
-
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sahil | Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="sahil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sahil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
