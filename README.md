@@ -9,8 +9,9 @@
 ## Flutter , Native and Web App Developer , Machine and Deep learning enthusiast 
 
 -  Professional App developer for 2+ years and experience in all different aspects of the market
--  Looking for innovative ideas and projects to work on everyday and super passionate about it
+-  Innovation and related projects to work on everyday is the goal and super passionate about it
 -  Always keen to work and collab with new developers 
+-  Glass of coffee at 2am until that error leaves the city
 
 <br />
 
@@ -21,13 +22,19 @@
 ![AS](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-## Programming tools that I use :
+## Some other tools my brain cells know :
 
 
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+![AS](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![AS](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![AS](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![AS](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![AS](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![AS](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AS](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![AS](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
 
 
 
