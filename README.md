@@ -4,7 +4,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/keenphoenix/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/keenphoenix)
 
-<img src="https://thumbs.gfycat.com/EvergreenShortButterfly-max-1mb.gif" width="600" height="600" />
+<img src="https://thumbs.gfycat.com/EvergreenShortButterfly-max-1mb.gif" width="300" height="600" />
 
 
 
