@@ -1,4 +1,4 @@
-### Hi , I'm Sahil Saleem , Welcome to my Github
+## Hi , I'm Sahil Saleem , Welcome to my Github
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Website](https://img.shields.io/website?color=FF7139&logo=Firefox%20Browser&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsahilsaleemwebsite.web.app%2F%23%2F)](https://website-6faf5.web.app/#/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/keenphoenix/)
@@ -14,14 +14,14 @@
 
 <br />
 
-### My Right Hand Tools 
+## My Right Hand Tools 
 ![AS](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![AS](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![AS](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![AS](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-#### Programming tools that I use :
+## Programming tools that I use :
 
 
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
