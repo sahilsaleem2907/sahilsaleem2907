@@ -37,8 +37,7 @@
 ![AS](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-
-
+<br />
 <p align="center">
   <img src="https://acegif.com/wp-content/gifs/the-end-13.gif" width="400" height="100" />
 </p>
