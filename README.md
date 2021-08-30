@@ -1,5 +1,5 @@
 ### Hi , I'm Sahil Saleem , Welcome to my Github
-[![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Website](https://img.shields.io/website?color=FF7139&logo=Firefox%20Browser&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsahilsaleemwebsite.web.app%2F%23%2F)](https://website-6faf5.web.app/#/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/keenphoenix/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/keenphoenix)
@@ -14,7 +14,10 @@
 
 <br />
 
-### Programming tools that I use :
+### My Right Hand Tools 
+[![AS](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]
+
+#### Programming tools that I use :
 
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
