@@ -6,7 +6,7 @@
 
 
 
-## Flutter , Native and Web App Developer , Machine and Deep learning enthusiast 
+### Flutter , Native and Web App Developer , Machine and Deep learning enthusiast 
 
 -  Professional App developer for 2+ years and experience in all different aspects of the market
 -  Innovation and related projects to work on everyday is the goal and super passionate about it
@@ -15,14 +15,14 @@
 
 <br />
 
-## My Right Hand Tools 
+### My Right Hand Tools 
 ![AS](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![AS](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![AS](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![AS](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-## Some other tools my brain cells know :
+### Other Tools  :
 
 
 ![AS](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
