@@ -13,7 +13,7 @@
 -  Professional App developer for 2+ years and experience in all different aspects of the market
 -  Innovation and related projects to work on everyday is the goal and super passionate about it
 -  Always keen to work and collab with new developers 
--  Glass of coffee at 2am until that error leaves the city
+-  Cup of coffee at 2am until that error leaves the city
 
 <br />
 
