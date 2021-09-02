@@ -1,6 +1,6 @@
 ## Hi , I'm Sahil Saleem !
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Website](https://img.shields.io/website?color=FF7139&logo=Firefox%20Browser&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsahilsaleemwebsite.web.app%2F%23%2F)](https://website-6faf5.web.app/#/) 
+[![Website](https://img.shields.io/website?down_color=red&logo=Firefox%20Browser&down_message=DOWN&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fmyportfolio-ec454.web.app%2F%23%2F)](https://myportfolio-ec454.web.app/#/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/keenphoenix/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/keenphoenix)
 
