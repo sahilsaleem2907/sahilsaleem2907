@@ -9,8 +9,8 @@
 ### Full Stack Developer 
 
 >  4+ years experience in application development native and iOS
->  Keen to work on creatives with passion and grit
->  I Love Collabing with people and always on the hunt for new adventures   
+-  Keen to work on creatives with passion and grit
+-  I Love Collabing with people and always on the hunt for new adventures   
 -  Cup of coffee at 2am until that error leaves the city
 
 <br />
