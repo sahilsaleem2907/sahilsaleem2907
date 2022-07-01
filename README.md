@@ -8,7 +8,7 @@
 
 ### **Full Stack Developer** 
 
->  4+ years experience in application development native and iOS
+>  4+ years experience in application development native, iOS and web
 -  Keen to work on creatives with passion and grit
 -  I love collabing with people and always on the hunt for new adventures   
 -  Cup of coffee at 2am until that error leaves the city
