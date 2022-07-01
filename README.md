@@ -42,7 +42,7 @@
 ![AS](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-> I also love pink floyd, if you do too then you should checkout my website.
+> I also love pink floyd🎸, if you do too then you should checkout my website.
 
 
 
