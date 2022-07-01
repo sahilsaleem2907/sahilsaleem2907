@@ -6,11 +6,11 @@
 
 
 
-### Flutter , Native and Web App Developer , Machine and Deep learning enthusiast 
+### Full Stack Developer 
 
--  Professional App developer with 3+ years and experience in all different aspects of the market
--  Innovation and related projects to work on everyday is the goal and super passionate about it
--  Always keen to work and collab with new developers 
+>  4+ years experience in application development native and iOS
+>  Keen to work on creatives with passion and grit
+>  I Love Collabing with people and always on the hunt for new adventures   
 -  Cup of coffee at 2am until that error leaves the city
 
 <br />
