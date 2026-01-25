@@ -12,8 +12,8 @@
 
 With over 6 years of experience crafting apps that don’t crash on launch (mostly), I love building things for mobile, web, and iOS. My toolkit’s full, my coffee cup’s fuller, and my Git history? Let’s not talk about that.
 
-- Passionate about creative coding and solving quirky problems
-- A team player who actually enjoys meetings (weird, I know) 🤝
+- Passionate about creative coding and solving quirky problems.
+- A team player who actually enjoys meetings.
 - Frequently seen coding at 2AM because... that bug won't fix itself
 
 ---
@@ -48,7 +48,7 @@ These are the tools I reach for faster than Ctrl+Z:
 
 ---
 
-### 🎸 Bonus Fact: I love Pink Floyd  
+### 🎸 Bonus: I love Pink Floyd  
 If you do too, we’re already friends. Hit up my [website](https://sahilsaleem.in) — it’s got fewer bugs than my old code.
 
 ---
