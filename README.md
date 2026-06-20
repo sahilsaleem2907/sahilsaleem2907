@@ -3,7 +3,6 @@
 Backend & security engineer (~3 yrs) currently at [Siemba](https://siemba.io), building on AWS and slowly migrating most of my brain over to LLM/AI engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-saleem-338a06144/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sahilsaleem.in-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://sahilsaleem.in)
 
 ### What I actually do
 
