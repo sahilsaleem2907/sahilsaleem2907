@@ -1,62 +1,32 @@
-## Hey there ! I'm **Sahil Saleem**  
-> Welcome to the land of code, coffee, and controlled chaos ☕
+## Hey, I'm Sahil Saleem
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil%20Saleem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-saleem-338a06144/)
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsahilsaleem.in&logo=Firefox%20Browser)](https://sahilsaleem.in)
+Backend & security engineer (~3 yrs) currently at [Siemba](https://siemba.io), building on AWS and slowly migrating most of my brain over to LLM/AI engineering.
 
-<img src="https://thumbs.gfycat.com/EvergreenShortButterfly-max-1mb.gif" width="100%" height="auto" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-saleem-338a06144/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahilsaleem.in-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://sahilsaleem.in)
 
----
+### What I actually do
 
-### Full Stack Developer 
+I build backend services and security tooling that's supposed to stay up at 3 AM so I don't have to. Lately I'm spending more time on LLMs (RAG, agents, model routing) because that's where the interesting problems went.
 
-With over 6 years of experience crafting apps that don’t crash on launch (mostly), I love building things for mobile, web, and iOS. My toolkit’s full, my coffee cup’s fuller, and my Git history? Let’s not talk about that.
+### Stack I reach for
 
-- Passionate about creative coding and solving quirky problems.
-- A team player who actually enjoys meetings.
-- Frequently seen coding at 2AM because... that bug won't fix itself
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
----
-
-### My Right-Hand Tools
-
-These are the tools I reach for faster than Ctrl+Z:
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools I Can Use Blindfolded (but won’t)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-> You name it — if it compiles, I’ve probably broken it before mastering it.
+### Off the clock
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-### 🎸 Bonus: I love Pink Floyd  
-If you do too, we’re already friends. Hit up my [website](https://sahilsaleem.in) — it’s got fewer bugs than my old code.
-
----
-
-> _“There’s someone in my head, but it’s not me.”_ – Pink Floyd  
-> Probably what my code thinks when it compiles on the first try
-
----
-<!--
-✨ README crafted with way too much caffeine and just the right amount of chaos.
--->
+Pink Floyd on loop, NBA on the second monitor, and a strong opinion about both. Pinned repos above are the real work, have a look around.
